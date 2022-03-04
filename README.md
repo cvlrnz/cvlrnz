@@ -2,7 +2,7 @@
 - 👀 I’m interested in webdev and blockcahin 
 - 🌱 I’m currently learning how to code as a literal beginner
 - 💞️ I’m looking to collaborate on building web3 
-- 📫 How to reach me? <a href="https://www.linkedin.com/in/carlos-lorenzo-99215b191/">My Linked-in</a> <a href="https://www.instagram.com/cvlrnz/">My Instagram</a> <a href="https://twitter.com/cvlrnz_">My Twitter</a>
+- 📫 How to reach me? <a href="https://www.linkedin.com/in/carlos-lorenzo-99215b191/">Through my Linked-in,</a> <a href="https://www.instagram.com/cvlrnz/">My Instagram,</a> <a href="https://twitter.com/cvlrnz_"> And my Twitter</a>
 - 
 -
 
